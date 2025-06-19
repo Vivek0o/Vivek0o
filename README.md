@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Vivek Kumar</h1>
-<h3 align="center">I'm an Android Engineer passionate about building robust, scalable, and intuitive mobile applications. With a strong foundation in Kotlin and Jetpack Compose, I specialize in creating clean, maintainable codebases and scalable app architectures.</h3>
+<h3 align="left">I'm an Android Engineer passionate about building robust, scalable, and intuitive mobile applications. With a strong foundation in Kotlin and Jetpack Compose, I specialize in creating clean, maintainable codebases and scalable app architectures.</h3>
 
 <h3 align="left">What i do:</h3>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;   🔧 Native Android Development with Kotlin & Java</p>
