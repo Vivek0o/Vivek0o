@@ -2,21 +2,21 @@
 <h3 align="center">I'm an Android Engineer passionate about building robust, scalable, and intuitive mobile applications. With a strong foundation in Kotlin and Jetpack Compose, I specialize in creating clean, maintainable codebases and scalable app architectures.</h3>
 
 <h3 align="left">What i do:</h3>
-<h3>🔧 Native Android Development with Kotlin & Java</h3>
+<h6>🔧 Native Android Development with Kotlin & Java</h3>
 
-<h3>🧩 Jetpack Compose for modern declarative UI</h3>
+<h6>🧩 Jetpack Compose for modern declarative UI</h3>
 
-<h3>🛠 Clean Architecture, MVVM, and modularization</h3>
+<h6>🛠 Clean Architecture, MVVM, and modularization</h3>
 
-<h3>🔌 Dependency Injection with Hilt/Dagger</h3>
+<h6>🔌 Dependency Injection with Hilt/Dagger</h3>
 
-<h3>🔗 Multi-screen app support, secondary display rendering</h3>
+<h6>🔗 Multi-screen app support, secondary display rendering</h3>
 
-<h3>🧪 Testing: Unit, UI, and Integration</h3>
+<h6>🧪 Testing: Unit, UI, and Integration</h3>
 
-<h3>📦 Build systems: Gradle optimization, versioning strategies</h3>
+<h6>📦 Build systems: Gradle optimization, versioning strategies</h3>
 
-<h3>💬 Collaboration: Code reviews, mentorship, and Agile workflows</h3>
+<h6>💬 Collaboration: Code reviews, mentorship, and Agile workflows</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
