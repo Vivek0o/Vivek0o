@@ -20,9 +20,6 @@
     <td align="center" width="250">
       <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="App Icon" width="100" height="100"/>
       <h4><a href="https://play.google.com/store/apps/details?id=com.avfusionapps.game_2048&hl=en_IN" target="_blank">2048 Neon Rush</a></h4>
-      <a href="https://play.google.com/store/apps/details?id=com.avfusionapps.game_2048&hl=en_IN" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" width="150"/>
-      </a>
       <p>A modern twist on the classic 2048 puzzle — clean design, smooth animations, and engaging gameplay!</p>
     </td>
   </tr>
