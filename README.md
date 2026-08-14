@@ -14,8 +14,8 @@
 <h3 align="left">🛍️ My Products:</h3>
 
 <p align="left">
-  <b>2048 Neon Rush</b><br>
-  <a href="https://play.google.com/store/apps/details?id=com.avfusionapps.game_2048&hl=en_IN" target="_blank">
+  <b>2048 Neon Rush | OrganizeEmail | FriendLock | HabitLoop</b><br>
+  <a href="[https://play.google.com/store/apps/details?id=com.avfusionapps.game_2048&hl=en_IN](https://play.google.com/store/apps/developer?id=Sayne+Design)" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" width="150"/>
   </a>
 </p>
